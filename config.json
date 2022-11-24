@@ -1,0 +1,7 @@
+{
+    "webhook": "",
+    "key": [""],
+    "log ip": true,
+    "black list ip": [""],
+    "deletar logs": true
+}
